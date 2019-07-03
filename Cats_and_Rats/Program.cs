@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * Problem source: https://www.codechef.com/problems/CATSRATS
+ */
+
+
+using System;
 using System.Collections;
 
 namespace Cats_and_Rats
